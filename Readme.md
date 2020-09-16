@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Руслан  Шевченко](https://up.htmlacademy.ru/javascript/21/user/854371).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Цуканова](https://htmlacademy.ru/profile/nuposyatina).
 
 ---
 
